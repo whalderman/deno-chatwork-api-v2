@@ -1,6 +1,6 @@
 {
 	"name": "@seodin/chatwork-api",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"exports": "./main.ts",
 	"tasks": {
 		"dev": "deno run --watch main.ts"
